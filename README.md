@@ -12,4 +12,4 @@ PowerPoint
 Key Insight: I focused on evaluating model accuracy at high-confidence thresholds to identify actionable areas for improving prediction reliability.
 
 Note:
-Due to privacy concerns, the actual healthcare dataset used in this analysis cannot be shared. The code and queries here are based on a similar schema using synthetic/mock data.
+Due to privacy concerns, the actual healthcare dataset used in this analysis cannot be shared. The code and queries here are based on a similar schema using mock data.
