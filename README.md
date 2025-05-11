@@ -1,4 +1,4 @@
-# healthcare-analytics
+# Predictive Model Evaluation
 This project analyzes the performance of two predictive models using a healthcare dataset containing 350,000+ diagnosis predictions and 4,000+ diagnosis descriptions. Using a local PostgreSQL database set up via pgAdmin, I queried the data to explore model behavior and created a visualization to showcase model performance using COPD (Chronic Obstructive Pulmonary Disease) predictions.
 
 Tools used:
